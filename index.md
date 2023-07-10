@@ -7,3 +7,5 @@
 This is standard text, which I will use to describe the main changes in this commit. 
 
 This is testing some basic markdown.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
