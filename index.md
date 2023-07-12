@@ -17,3 +17,6 @@ mt.group
 FROM panel p
 LEFT JOIN master_test mt on p.test_id = mt.id;
 ```
+- [] Turn on Github Pages
+- [] Outline my portfolio
+- [] Introdce myself to the world
