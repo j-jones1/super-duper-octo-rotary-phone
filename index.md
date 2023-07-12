@@ -9,3 +9,11 @@ This is standard text, which I will use to describe the main changes in this com
 This is testing some basic markdown.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+```
+SELECT p.id,
+mt.group
+FROM panel p
+LEFT JOIN master_test mt on p.test_id = mt.id;
+```
